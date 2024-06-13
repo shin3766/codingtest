@@ -1,4 +1,4 @@
-package me.yoosup.codingtest.dfsbfs;
+package me.yoosup.codingtest.algorithm.dfsbfs;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package me.yoosup.codingtest.dfsbfs;
+package me.yoosup.codingtest.algorithm.dfsbfs;
 
 public class dfs음료수얼려먹기 {
     public static int n = 4;

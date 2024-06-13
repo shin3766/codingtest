@@ -1,9 +1,7 @@
-package me.yoosup.codingtest.sort.md0607;
+package me.yoosup.codingtest.algorithm.sort;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class 두배열의원소교체 {

@@ -1,10 +1,8 @@
-package me.yoosup.codingtest.sort.md0607;
+package me.yoosup.codingtest.algorithm.sort;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class 성적이낮은순서로학생출력하기 {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package me.yoosup.codingtest.sort.md0607;
+package me.yoosup.codingtest.algorithm.sort;
 
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Stream;

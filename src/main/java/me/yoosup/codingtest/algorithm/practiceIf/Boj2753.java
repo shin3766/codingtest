@@ -1,4 +1,4 @@
-package me.yoosup.codingtest.practiceIf;
+package me.yoosup.codingtest.algorithm.practiceIf;
 
 import java.io.BufferedReader;
 import java.io.IOException;
